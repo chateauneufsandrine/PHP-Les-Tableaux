@@ -1,6 +1,8 @@
 <?php 
 // EXERCICE3//////////////////////////////////////////////////////////////////
 // Avec le tableau de l'exercice , afficher la valeur de l'index 5
+$tableauMonths = ["janvier","février","mars","avril","mai","juin","juillet",
+"aout","septembre","octobre","novembre","décembre"];
 ?>
 
 <!DOCTYPE html>
@@ -11,6 +13,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h2><?= $tableauMonths [5] ?></h2>
 </body>
 </html>
