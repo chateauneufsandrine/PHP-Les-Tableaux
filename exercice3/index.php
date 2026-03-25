@@ -1,5 +1,6 @@
 <?php 
-
+// EXERCICE3//////////////////////////////////////////////////////////////////
+// Avec le tableau de l'exercice , afficher la valeur de l'index 5
 ?>
 
 <!DOCTYPE html>

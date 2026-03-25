@@ -1,5 +1,6 @@
 <?php 
-
+// EXERCICE7///////////////////////////////////////////////////////////
+// Avec le tableau de l'exercice 5, ajouter la ligne correspondant au département de la ville de Reims
 ?>
 
 <!DOCTYPE html>

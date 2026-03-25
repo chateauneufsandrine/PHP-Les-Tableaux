@@ -1,5 +1,6 @@
 <?php 
-
+// EXERCICE4///////////////////////////////////////////////////////////
+// Avec le tableau de l'exercice 1, modifier le mois de aout pour lui ajouter l'accent manquant
 ?>
 
 !DOCTYPE html>

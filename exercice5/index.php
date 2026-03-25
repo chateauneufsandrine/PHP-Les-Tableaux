@@ -1,5 +1,7 @@
 <?php 
-
+// EXERCICE5///////////////////////////////////////////////////////////
+// Créer un tableau associatif avec comme index le numéro des départements
+//  des Hauts de France et en valeur leur nom
 ?>
 
 <!DOCTYPE html>

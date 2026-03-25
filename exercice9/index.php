@@ -1,5 +1,6 @@
 <?php 
-
+// EXERCICE9////////////////////////////////////////////////////////////////////////
+// Avec le tableau de l'exercice 5, afficher toutes les valeurs de ce tableau
 ?>
 
 <!DOCTYPE html>

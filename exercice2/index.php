@@ -1,5 +1,6 @@
 <?php 
-
+// EXERCICE2/////////////////////////////////////////////////////////////////////////////////
+// Avec le tableau de l'exercice 1, afficher la valeur de la troisième ligne de ce tableau.
 ?>
 
 <!DOCTYPE html>

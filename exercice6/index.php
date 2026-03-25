@@ -1,5 +1,6 @@
 <?php 
-
+// EXERCICE6////////////////////////////////////////////////////
+// Avec le tableau de l'exercice 5, afficher la valeur de l'index 59
 ?>
 
 
